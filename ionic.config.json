@@ -1,0 +1,8 @@
+{
+  "name": "gravity",
+  "app_id": "90cab62e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
